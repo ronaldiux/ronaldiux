@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronaldo Jr</h1>
+<h1 align="center">Olá 👋, eu sou Ronaldo Jr</h1>
 <h3 align="center">Esse é meu git :)</h3>
 
 - 🔭 Atualmente estou focado com **Flutter**
